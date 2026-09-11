@@ -4,3 +4,4 @@
 * [L4_grayscale](src/lessons/L4_grayscale.ipynb)
 * [L5_HSV_color_space](src/lessons/L5_HSV_color_space.ipynb)
 * [L6_image_resizing](src/lessons/L6_image_resizing.ipynb)
+* [L7_image_histogram](src/lessons/L7_image_histogram.ipynb)
