@@ -9,3 +9,4 @@
 * [L9_draw_on_images_with_mouse](src/lessons/L9_draw_on_images_with_mouse.ipynb)
 * [L10_trackbar](src/lessons/L10_trackbar.ipynb)
 * [L11_image_blending](src/lessons/L11_image_blending.ipynb)
+* [L12_image_overlaying](src/lessons/L12_image_overlaying.ipynb)
