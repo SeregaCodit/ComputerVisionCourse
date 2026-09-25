@@ -11,3 +11,4 @@
 * [L11_image_blending](src/lessons/L11_image_blending.ipynb)
 * [L12_image_overlaying](src/lessons/L12_image_overlaying.ipynb)
 * [L13_image_translation](src/lessons/L13_image_translation.ipynb)
+* [L14_image_rotation](src/lessons/L14_image_rotation.ipynb)
