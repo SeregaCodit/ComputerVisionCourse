@@ -14,3 +14,4 @@
 * [L14_image_rotation](src/lessons/L14_image_rotation.ipynb)
 * [L15_affine_transform](src/lessons/L15_affine_transform.ipynb)
 * [L16_perspective_transform](src/lessons/L16_perspective_transform.ipynb)
+* [L17_histogram_equalization](src/lessons/L17_histogram_equalization.ipynb)
