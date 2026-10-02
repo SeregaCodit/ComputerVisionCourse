@@ -16,3 +16,4 @@
 * [L16_perspective_transform](src/lessons/L16_perspective_transform.ipynb)
 * [L17_histogram_equalization](src/lessons/L17_histogram_equalization.ipynb)
 * [L18_2d_histogram](src/lessons/L18_2d_histogram.ipynb)
+* [L19_2D_convolution](src/lessons/L19_2D_convolution.ipynb)
