@@ -20,3 +20,4 @@
 * [L20_average_filtering](src/lessons/L20_average_filtering.ipynb)
 * [L21_median_filter](src/lessons/L21_median_filter.ipynb)
 * [L22_gaussian_filter](src/lessons/L22_gaussian_filter.ipynb)
+* [L23_bilateral_filter](src/lessons/L23_bilateral_filter.ipynb)
