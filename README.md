@@ -21,3 +21,4 @@
 * [L21_median_filter](src/lessons/L21_median_filter.ipynb)
 * [L22_gaussian_filter](src/lessons/L22_gaussian_filter.ipynb)
 * [L23_bilateral_filter](src/lessons/L23_bilateral_filter.ipynb)
+* [L24_DoG](src/lessons/L24_DoG.ipynb)
