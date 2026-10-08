@@ -22,3 +22,4 @@
 * [L22_gaussian_filter](src/lessons/L22_gaussian_filter.ipynb)
 * [L23_bilateral_filter](src/lessons/L23_bilateral_filter.ipynb)
 * [L24_DoG](src/lessons/L24_DoG.ipynb)
+* [L25_image_thresholding](src/lessons/L25_image_thresholding.ipynb)
