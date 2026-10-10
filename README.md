@@ -23,3 +23,5 @@
 * [L23_bilateral_filter](src/lessons/L23_bilateral_filter.ipynb)
 * [L24_DoG](src/lessons/L24_DoG.ipynb)
 * [L25_image_thresholding](src/lessons/L25_image_thresholding.ipynb)
+* [L26_adaptive_thresholding](src/lessons/L26_adaptive_thresholding.ipynb)
+* [L27_otsu_binarization](src/lessons/L27_otsu_binarization.ipynb)
