@@ -25,3 +25,4 @@
 * [L25_image_thresholding](src/lessons/L25_image_thresholding.ipynb)
 * [L26_adaptive_thresholding](src/lessons/L26_adaptive_thresholding.ipynb)
 * [L27_otsu_binarization](src/lessons/L27_otsu_binarization.ipynb)
+* [L28_histogram_backprojection](src/lessons/L28_histogram_backprojection.ipynb)
