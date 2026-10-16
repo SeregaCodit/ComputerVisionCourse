@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 from core.entities.constants import Paths as p
 
 
-img_path = p.IMAGE_ASSETS / "lambo.jpg"
+img_path = p.IMAGE_ASSETS / "tesla.png"
 img = cv2.imread(img_path)
 
 plt.figure()

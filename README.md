@@ -28,3 +28,4 @@
 * [L28_histogram_backprojection](src/lessons/L28_histogram_backprojection.ipynb)
 * [L29_image_gradients](src/lessons/L29_image_gradients.ipynb)
 * [L30_canny_edge_detection](src/lessons/L30_canny_edge_detection.ipynb)
+* [L31_contours](src/lessons/L31_contours.ipynb)
