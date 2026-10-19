@@ -30,3 +30,4 @@
 * [L30_canny_edge_detection](src/lessons/L30_canny_edge_detection.ipynb)
 * [L31_contours](src/lessons/L31_contours.ipynb)
 * [L32_Fourier_trnsform](src/lessons/L32_Fourier_trnsform.ipynb)
+* [L33_template_matching](src/lessons/L33_template_matching.ipynb)
