@@ -31,3 +31,4 @@
 * [L31_contours](src/lessons/L31_contours.ipynb)
 * [L32_Fourier_trnsform](src/lessons/L32_Fourier_trnsform.ipynb)
 * [L33_template_matching](src/lessons/L33_template_matching.ipynb)
+* [L34_hough_line_transform](src/lessons/L34_hough_line_transform.ipynb)
