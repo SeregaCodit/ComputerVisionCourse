@@ -1,4 +1,3 @@
-import cv2
 import cv2 as cv
 import numpy as np
 
@@ -77,12 +76,12 @@ class ROISelector(IROISelector):
         cv.setMouseCallback(self.WINDOW_NAME, self.__draw_rectangle, src)
 
         while True:
-            if cv2.waitKey(1) & 0xFF == ord('q'):
+            if cv.waitKey(1) & 0xFF == ord('q'):
                 break
 
             cv.imshow(self.WINDOW_NAME, self.OVERLAY)
 
-        cv.destroyAllWindows()
+        cv.destroyWindow(self.WINDOW_NAME)
 
         roi_x = min(self.START_X, self.CURRENT_X)
         roi_y = min(self.START_Y, self.CURRENT_Y)
