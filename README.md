@@ -33,3 +33,4 @@
 * [L33_template_matching](src/lessons/L33_template_matching.ipynb)
 * [L34_hough_line_transform](src/lessons/L34_hough_line_transform.ipynb)
 * [L35_hough_circle_transform](src/lessons/L35_hough_circle_transform.ipynb)
+* [L36_watershed_segmentation](src/lessons/L36_watershed_segmentation.ipynb)
